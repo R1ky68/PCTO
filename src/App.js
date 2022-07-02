@@ -1,9 +1,10 @@
 import PaginaCasa from "./components/PaginaCasa";
-import PaginaCinque from "./components/PaginaCinque";
+import FunzioniDivertenti from "./components/FunzioniDivertenti";
 import PaginaIniziale from "./components/PaginaIniziale";
-import PaginaQuattro from "./components/PaginaQuattro";
+import DescrizioneArduino from "./components/DescrizioneArduino";
 import PaginaTre from "./components/PaginaTre";
 import Team from './components/Team';
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -11,9 +12,10 @@ function App() {
       <PaginaIniziale />
       <PaginaCasa />
       <PaginaTre />
-      <PaginaQuattro />
-      <PaginaCinque />
+      <DescrizioneArduino />
+      <FunzioniDivertenti />
       <Team />
+      <Footer />
     </div>
   );
 }

@@ -15,12 +15,12 @@ function Team() {
         <h1 style={{ 'textAlign': 'center' }}>Il Team?</h1>
         <DettagliTeam>
             <ListaTeam>
-                <h2>1. 🇷🇴 Riccardo Ionut Racos</h2>
-                <h2>2. 🇮🇹 Luca Aguzzi</h2>
-                <h2>3. 🇮🇹 Samuele Fiocco</h2>
-                <h2>4. 🇮🇹 Niccolò Perazzoli</h2>
-                <h2>5. 🇮🇹 Nicolò Lattanzi</h2>
-                <h2>6. 🇮🇹 Leonardo Donati</h2>
+                <h2>🇷🇴 Riccardo Ionut Racos</h2>
+                <h2>🇮🇹 Luca Aguzzi</h2>
+                <h2>🇮🇹 Samuele Fiocco</h2>
+                <h2>🇮🇹 Niccolò Perazzoli</h2>
+                <h2>🇮🇹 Nicolò Lattanzi</h2>
+                <h2>🇮🇹 Leonardo Donati</h2>
             </ListaTeam>
             <Divider />
             <ContainerRecensione>

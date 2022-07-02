@@ -1,19 +1,23 @@
 import React from 'react'
 import styled from 'styled-components'
 
-function PaginaCinque() {
+function FunzioniDivertenti() {
   return (
     <Container>
         <h1>Cosa fa nel concreto?</h1>
         <Risposta>Semplice. Tutto.</Risposta>
         <Risposta>Sul Serio, tutto.</Risposta>
-        <Risposta style={{ 'marginBottom': '400px' }}>Ma proprio tutto eh.</Risposta>
+        <Risposta>Ma proprio tutto eh.</Risposta>
+        <Risposta>O almeno in questo progetto fa un sacco di cose fighe</Risposta>
+        <Risposta>"Arduino, accendi le luci!"; "Arduino, accendi i fornelli!"; "Arduino, raccontami una barzelletta!"</Risposta>
+        <Risposta>Ok forse non fa tutto tutto</Risposta>
+        <Risposta style={{ 'marginBottom': '400px' }}>Invece si, scherzavo.</Risposta>
         <span class="material-symbols-outlined">expand_more</span>
     </Container>
   )
 }
 
-export default PaginaCinque
+export default FunzioniDivertenti
 
 const Container = styled.div`
     background-color: #202020;
